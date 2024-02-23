@@ -1,2 +1,5 @@
-# .github
-About us
+# ChessAI 
+
+Hey hello 👋
+
+

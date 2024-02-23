@@ -1,4 +1,4 @@
-# ChessAI 
+# ChessAI-Project 
 
 Hey hello 👋
 

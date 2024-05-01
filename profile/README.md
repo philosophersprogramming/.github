@@ -1,4 +1,4 @@
-# ChessAI-Project 
+# PhilosophersProgramming 
 
 Hey hello 👋
 
